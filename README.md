@@ -17,7 +17,7 @@ Django-based blogging application where users can write/listen/read textual and 
 11. Blog Ads: Users may advertise their blog/post by initiating an ad capmaign.
 12. Blog Wish List: If a user doesn't have the funds to purchase a blog, one may add it to the wish list
 13. Blog Reading List: Users may add an owned/free blog to their reading list which contains blogs that a user will read at a later time. 
-
+14. Blog Share: Extension that allows for sharing the blog to social medias
 
 ## Third Party Plugins
 
